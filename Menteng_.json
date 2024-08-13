@@ -5,7 +5,7 @@
 		"type": "Feature",
 		"properties": {
 		"Kelurahan": "Gondangdia",
-		"Kecamatan": "GAMBIR",
+		"Kecamatan": "MENTENG",
 		"Kab": "JAKARTA PUSAT",
 		"Provinsi": "DKI JAKARTA",
 		"KelCD": "K04411",
@@ -22,7 +22,7 @@
 		"type": "Feature",
 		"properties": {
 		"Kelurahan": "PEGANGSAAN",
-		"Kecamatan": "GAMBIR",
+		"Kecamatan": "MENTENG",
 		"Kab": "JAKARTA PUSAT",
 		"Provinsi": "DKI JAKARTA",
 		"KelCD": "K04525",
@@ -39,7 +39,7 @@
 		"type": "Feature",
 		"properties": {
 		"Kelurahan": "CIKINI",
-		"Kecamatan": "GAMBIR",
+		"Kecamatan": "MENTENG",
 		"Kab": "JAKARTA PUSAT",
 		"Provinsi": "DKI JAKARTA",
 		"KelCD": "K04377",
@@ -56,7 +56,7 @@
 		"type": "Feature",
 		"properties": {
 		"Kelurahan": "KEBON SIRIH",
-		"Kecamatan": "GAMBIR",
+		"Kecamatan": "MENTENG",
 		"Kab": "JAKARTA PUSAT",
 		"Provinsi": "DKI JAKARTA",
 		"KelCD": "K04467",
@@ -73,7 +73,7 @@
 		"type": "Feature",
 		"properties": {
 		"Kelurahan": "MENTENG",
-		"Kecamatan": "GAMBIR",
+		"Kecamatan": "MENTENG",
 		"Kab": "JAKARTA PUSAT",
 		"Provinsi": "DKI JAKARTA",
 		"KelCD": "K04508",
